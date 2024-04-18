@@ -1,12 +1,12 @@
-site_name: homepage
+site_name: IesBrazil Digital Applications
 
 # Project information
-site_url: https://gethomepage.dev/
+site_url: https://iesbrazil.cloud
 
 # Repository
-repo_name: gethomepage/homepage
-repo_url: https://github.com/gethomepage/homepage
-edit_uri: https://github.com/gethomepage/homepage/tree/main/docs/
+repo_name: rodrigoeiras/b2b-gallery-homepage
+repo_url: https://github.com/rodrigoeiras/b2b-gallery-homepage
+edit_uri: https://github.com/rodrigoeiras/b2b-gallery-homepage/tree/main/docs/
 
 nav:
   - "Home":
